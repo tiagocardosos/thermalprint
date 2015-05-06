@@ -33,6 +33,7 @@ Diebold
 Elgin
    Vox
    L42
+   i9
 Epson
    TM T20
    TM T81
@@ -40,6 +41,9 @@ Epson
 Star
    TSP 100
    TSP 700
+Toshiba
+   1NR SureMark
+   2CR SureMark
 Sweda
    SI 300S
    SI 300L

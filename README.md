@@ -13,5 +13,7 @@ Esses casos funcionam unicamente em rede local.
 Para impressão a partir de sistemas em Cloud é requerido a operação com javascript e alguma inteface local,
 e para isso usa-se o jZebra usando o método printbase64() que imprime para uma impressora do computador local 
 uma string formatada em base 64
-
+Como a aplicação jZebra é OpenSource a mesma é auto assinada então o Java irá RECUSAR seu uso.
+Para corrigir esse problema é necessário incluir no console de segurança do java o certificado distribuido
+junto com a aplicação.
 

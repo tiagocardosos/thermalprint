@@ -4,12 +4,18 @@ namespace ThermalPrint\Common;
 
 use ThermalPrint\Common\PrintInterface;
 use ThermalPrint\EscPos;
+use \stdClass;
 
 abstract class CommonPrinter implements PrinterInterface
 {
+    public $device;
+    
+    /**
+     * será substituido nas 
+     */
     public function __construct()
     {
-        
+        $this->device = \stdClass();
     }
     
     public function initialize()

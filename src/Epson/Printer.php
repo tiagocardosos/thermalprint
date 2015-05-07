@@ -4,7 +4,7 @@ namespace ThermalPrint\Epson;
 
 use ThermalPrint\Common\CommonPrinter;
 
-class EpsonPrinter extends CommonPrinter
+class Printer extends CommonPrinter
 {
     
 }

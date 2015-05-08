@@ -19,32 +19,32 @@ junto com a aplicação jZebra.
 
 As impressoras contidas nesta biblioteca são :
 
-Bematech
-   MP 2500-TH
-   MP 4200-TH
-   Nota: é necessário que o firmware esteja atualizado para a impressão do QR Code 
-Daruma
-   DR 700 L
-   DR 700 E
-Diebold
-   IM 402
-   IM 433
-   TSP 143
-Elgin
-   Vox
-   L42
+- Bematech
+  * MP 2500-TH
+  * MP 4200-TH
+  * Nota: é necessário que o firmware esteja atualizado para a impressão do QR Code 
+- Daruma
+  * DR 700 L
+  * DR 700 E
+- Diebold
+  * IM 402
+  * IM 433
+  * TSP 143
+- Elgin
+  * Vox
+  * L42
    i9
-Epson
-   TM T20
-   TM T81
-   TM T88
-Star
-   TSP 100
-   TSP 700
-Toshiba
-   1NR SureMark
-   2CR SureMark
-Sweda
-   SI 300S
-   SI 300L
+- Epson
+  * TM T20
+  * TM T81
+  * TM T88
+- Star
+  * TSP 100
+  * TSP 700
+- Toshiba
+  * 1NR SureMark
+  * 2CR SureMark
+- Sweda
+  * SI 300S
+  * SI 300L
 

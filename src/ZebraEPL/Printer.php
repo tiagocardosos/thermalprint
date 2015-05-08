@@ -299,7 +299,7 @@ class Printer
             . self::zMm2dots($yPos) . ','
             . $width / 8 . ','
             . $heigth . ','
-            . $graphic    
+            . $graphic
             . self::CRLF;
         $this->device->buffer .= $command;
         return $command;
